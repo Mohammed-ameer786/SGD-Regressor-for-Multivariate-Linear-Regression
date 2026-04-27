@@ -55,18 +55,16 @@ RegisterNumber:  212225040248
 
 
 ## Output:
-```
+
 
 <img width="288" height="51" alt="Screenshot 2026-04-27 142245" src="https://github.com/user-attachments/assets/7aa8c3e7-445a-426b-b027-f3fafea94056" />
 
 
-```
-```
 
 <img width="333" height="43" alt="Screenshot 2026-04-27 142254" src="https://github.com/user-attachments/assets/221db889-0124-4ff3-81ab-6cecb219c419" />
 
 
-```
+
 
 
 ## Result:
